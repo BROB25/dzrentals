@@ -66,7 +66,7 @@ const Games = () => {
 				{/* Right Side */}
 				<div className="px-4 lg:px-6 order-1">
 					<h3 className="text-stone-100 text-2xl lg:text-4xl font-bold shadow-lg drop-shadow-lg shadow-slate-800 text-center">
-						Full Service Bouncy Rentals slut whore bitch
+						Full Service Bouncy Rentals slut whore bitch thot
 					</h3>
 					<p className="text-white relative leading-2 lg:leading-loose pt-6">
 						Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil
