@@ -11,7 +11,7 @@ const Equipment = () => {
 			<div className="h-[500px] bg-neutral-900 mx-auto lg:my-20 lg:pt-16 px-4 grid lg:grid-cols-6 gap-8">
 				<div className="lg:top-20 relative col-span-2 ">
 					<h3 className="text-stone-100 text-2xl lg:text-4xl font-bold shadow-lg drop-shadow-lg shadow-slate-800 text-center md:-pt-16 pt-4">
-						Equipment Rentals
+						Equipment Rentals lol
 					</h3>
 					<p className="pt-4 text-white leading-6 text-mute">
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla non
