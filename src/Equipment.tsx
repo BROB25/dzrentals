@@ -7,7 +7,7 @@ import equip5 from "./assets/equip5.jpg";
 
 const Equipment = () => {
 	return (
-		<section id="equipment" className="pt-80 md:pt-0">
+		<section id="equipment" className="pt-80 md:pt-0 pb-80 md:mb-0 mb-60">
 			<div className="h-[500px] bg-neutral-900 mx-auto lg:my-20 lg:pt-16 px-4 grid lg:grid-cols-6 gap-8">
 				<div className="lg:top-20 relative col-span-2 ">
 					<h3 className="text-stone-100 text-2xl lg:text-4xl font-bold shadow-lg drop-shadow-lg shadow-slate-800 text-center md:-pt-16 pt-4">

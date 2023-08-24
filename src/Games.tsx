@@ -10,11 +10,11 @@ import game6 from "./assets/game6.jpg";
 import game7 from "./assets/game7.jpg";
 import game8 from "./assets/game8.jpg";
 
-import {
-	HoverCard,
-	HoverCardContent,
-	HoverCardTrigger,
-} from "@/components/ui/hover-card";
+// import {
+// 	HoverCard,
+// 	HoverCardContent,
+// 	HoverCardTrigger,
+// } from "@/components/ui/hover-card";
 import { ChevronRight } from "lucide-react";
 import { BiSolidChevronDown } from "react-icons/bi";
 
@@ -83,7 +83,7 @@ const Games = () => {
 					</p>
 					<div className="flex py-8">
 						<div>
-							<HoverCard>
+							{/* <HoverCard>
 								<HoverCardTrigger asChild>
 									<Button
 										variant="outline"
@@ -107,7 +107,7 @@ const Games = () => {
 										</div>
 									</div>
 								</HoverCardContent>
-							</HoverCard>
+							</HoverCard> */}
 						</div>
 						<div>
 							<Button className="cursor-pointer uppercase text-xs px-4 ml-2 bg-gray-400 border border-black border-2 font-extrabold">

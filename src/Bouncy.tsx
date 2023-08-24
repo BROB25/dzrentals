@@ -8,11 +8,11 @@ import bouncy3 from "./assets/bouncy3.jpg";
 import bouncy4 from "./assets/bouncy4.jpg";
 import bouncy5 from "./assets/bouncy5.jpg";
 import bouncy6 from "./assets/bouncy6.jpg";
-import {
-	HoverCard,
-	HoverCardContent,
-	HoverCardTrigger,
-} from "@/components/ui/hover-card";
+// import {
+// 	HoverCard,
+// 	HoverCardContent,
+// 	HoverCardTrigger,
+// } from "@/components/ui/hover-card";
 import { ChevronRight } from "lucide-react";
 import { BiSolidChevronDown } from "react-icons/bi";
 
@@ -76,7 +76,7 @@ const Bouncy = () => {
 					</p>
 					<div className="flex py-8">
 						<div>
-							<HoverCard>
+							{/* <HoverCard>
 								<HoverCardTrigger asChild>
 									<Button
 										variant="outline"
@@ -100,7 +100,7 @@ const Bouncy = () => {
 										</div>
 									</div>
 								</HoverCardContent>
-							</HoverCard>
+							</HoverCard> */}
 						</div>
 						<div>
 							<Button className="cursor-pointer uppercase text-xs px-4 ml-2 bg-gray-400 border border-black border-2 font-extrabold">
